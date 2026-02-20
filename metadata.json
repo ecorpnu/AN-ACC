@@ -1,0 +1,5 @@
+{
+  "name": "AN-ACC Assessment Tool",
+  "description": "A comprehensive clinical assessment tool for the Australian National Aged Care Classification (AN-ACC) system, covering nursing requirements, functional status, mobility, and behavior.",
+  "requestFramePermissions": []
+}
