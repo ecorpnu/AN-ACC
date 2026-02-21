@@ -6,8 +6,9 @@ Material sourced from
 
 1. https://www.health.gov.au/resources/publications/the-australian-national-aged-care-classification-an-acc-funding-guide?language=en
 2. https://www.health.gov.au/resources/publications/an-acc-reference-manual-and-an-acc-assessment-tool?language=en
+3. https://www.health.gov.au/sites/default/files/2025-10/my-aged-care-integrated-assessment-tool-iat-user-guide.pdf
 
-You need both to build this assessment tool. I have use GEMINI to do this and so far I have tested this to be working.
+You all to build this assessment tool. I have use GEMINI to do this and so far I have tested this to be working.
 
 # Run and deploy your AI Studio app
 
